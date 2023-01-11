@@ -161,21 +161,24 @@ button{
 @media only screen and (max-width:500px){
   header, section, footer{
     width: 100%;
+   
   }
   .background{
-    height: 70vh;
+    height: 300vh;
   }
+  
   .left, .right{
-    margin-top: -1950px;
+    margin-top: -2050px;
   }
   .linedivider{
-    height: 1800px;
+    height: 1700px;
   }
   .logo img{
-    width: 150px;
+    width: 130px;
   }
   .navigation ul li{
-    margin-top: 40px;
+    margin-top: 60px;
+    font-size: 18px
   }
   .title h1{
     font-size: 50px;
@@ -187,8 +190,4 @@ button{
     margin-left: -190px;
   }
 }
-@media only screen and (max-width:600px){
-  header, section, footer{
-    width: 100%;
-  }
-}
+
