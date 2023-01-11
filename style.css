@@ -163,7 +163,7 @@ button{
     width: 100%;
   }
   .background{
-    height: 100vh;
+    height: 200vh;
   }
   .left, .right{
     margin-top: -1950px;
