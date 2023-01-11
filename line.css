@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: linear-gradient(to right,#e53935,#e35d5b);
+}
+.linedivider{
+  border-left: 0.2px solid white;
+  height: 420px;
+  position: absolute;
+  left: 50%;
+  margin-left: 100px;
+  top: 60px;
+  color: aqua;
+}
